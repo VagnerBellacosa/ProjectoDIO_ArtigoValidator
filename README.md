@@ -14,3 +14,8 @@ Funcionalidades
 - Criar badges para os criadores de conteudo
 - Criar uma politica de premiação por conteudo
 
+Ferramenta critica
+
+- Anti spam
+- Anti multiplas postagens
+- Anti plagio
